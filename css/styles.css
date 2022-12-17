@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header ul li a {
+  text-decoration: none;
+}
+
+.colorTitulos {
+  color: Red;
+}
+.textosNegritas {
+  font-weight: bold;
+}
+
+#principal {
+  color: #9e906e;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.reseteoListas {
+  list-style-type: none;
+}
+
+main {
+  height: 600px;
+  background-color: rgb(244, 255, 127);
+  background-image: url("https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  /* background-image: url("../assets/images/588a66aad06f6719692a2d1d.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* 
+.camelCase
+.kebab-case
+.snake_case
+.PascalCase
+.SCREAMCASE */
